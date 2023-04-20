@@ -50,7 +50,8 @@ button {
   margin: 0 auto 0;
 }
 
-.task-label {
+.task-label,
+.task-input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
